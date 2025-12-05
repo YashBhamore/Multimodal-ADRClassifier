@@ -1,0 +1,8 @@
+{
+    "base_dir": "/content",
+    "text_model": "cambridgeltl/SapBERT-from-PubMedBERT-fulltext",
+    "image_model": "vit_base_patch16_224",
+    "cross_encoder": "cross-encoder/ms-marco-MiniLM-L-6-v2",
+    "data_dir": "C:\\Users\\dp1622\\OneDrive - UNT System\\Desktop\\info5731_project\\data"
+  
+}
